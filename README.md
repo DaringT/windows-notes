@@ -9,7 +9,13 @@
 This repo was created to centralize knowledge of windows and the scripts in to change certian settings in regex of other loactions of interest.
 
 ## Index
-[scripts/auto_logon.bat](scripts/auto_logon.bat)
+#### [Auto Logon](scripts/autologon/auto_logon.md)
 
-## How to setup auto logon in Windows
-[scripts/auto_logon.bat](scripts/auto_logon.bat) - This batch script configures Windows auto-logon by prompting for a default username and password, then updating the registry to enable automatic login on restart.
+#### [Local Account Creation](scripts/local-account-creation/local_account_creation.md)
+
+
+# Powershell
+⚠️ If you have issues running ps1 scripts, you need the following command as admininstator:
+```ps1
+Set-ExecutionPolicy RemoteSigned
+```
