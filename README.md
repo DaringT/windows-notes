@@ -9,9 +9,12 @@
 This repo was created to centralize knowledge of windows and the scripts in to change certian settings in regex of other loactions of interest.
 
 ## Index
-#### [Auto Logon](scripts/autologon/auto_logon.md)
+#### [Auto Logon](scripts/auto_logon/readme.md)
 
-#### [Local Account Creation](scripts/local-account-creation/local_account_creation.md)
+#### [Local Account Creation](scripts/local_account_creation/readme.md)
+
+
+#### [SMTS Error Logger](scripts/smts_log/readme.md)
 
 
 # Powershell

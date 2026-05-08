@@ -1,5 +1,6 @@
 # Script Process
 ### [auto_logon.bat](scripts/auto_logon.bat)
+### [auto_logon.ps1](scripts/auto_logon.ps1)
 <br>
 
 # Mannal Process

@@ -2,11 +2,12 @@
 
 ## Script Process
 ### [auto_logon.bat](scripts/account_creation.bat)
-<br>
+### [auto_logon.ps1](scripts/account_creation.ps1)
+
 
 ## How to add local accounts
 
-### Add a user
+### Add User
 
 Command Prompt
 ```cmd
