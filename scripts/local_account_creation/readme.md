@@ -1,8 +1,8 @@
 # Account creation in Windows
 
 ## Script Process
-### [auto_logon.bat](scripts/account_creation.bat)
-### [auto_logon.ps1](scripts/account_creation.ps1)
+### [auto_logon.bat](account_creation.bat)
+### [auto_logon.ps1](account_creation.ps1)
 
 
 ## How to add local accounts

@@ -1,5 +1,7 @@
 # STMS log exporter script
 
+#### [SMTS Error Logger](log.bat)
+
 Used for troubleshooting installing windows over the network on a USB boot media. It grabs all the need logs from STMS folder.
 
 ```
